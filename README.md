@@ -4,6 +4,8 @@ Autor: [Matthias Grabmair](http://www.andrew.cmu.edu/user/mgrabmai), [CMU LTI](h
 
 ## Kurs-Folien
 
+Zu finden in [hier](https://ln.sync.com/dl/a4ffaeab0/za6fgyfs-kurfgjkt-rkahhcpn-we8enjdz)
+
 ## Präsentationspaper für Gruppen
 
 Palau, Raquel Mochales, and Marie-Francine Moens. "Argumentation mining: the detection, classification and structure of arguments in text." Proceedings of the 12th international conference on artificial intelligence and law. ACM, 2009. [pdf](https://lirias.kuleuven.be/bitstream/123456789/234784/1/MochalesMoensICAIL09.pdf)
