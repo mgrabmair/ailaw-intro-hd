@@ -10,5 +10,5 @@ Palau, Raquel Mochales, and Marie-Francine Moens. "Argumentation mining: the det
 
 Daniel M. Katz, Michael Bommarito & Josh Blackman, Predicting the Behavior of the United States Supreme Court: A General Approach [pdf](https://arxiv.org/pdf/1407.6333.pdf)
 
-Walker, Vern R., et al. "Semantic Types for Decomposing Evidence Assessment in Decisions on Veterans’ Disability Claims for PTSD." ASAIL Workshop Proceedings (2017).
+Walker, Vern R., et al. "Semantic Types for Decomposing Evidence Assessment in Decisions on Veterans’ Disability Claims for PTSD." ASAIL Workshop Proceedings (2017). [pdf](https://people.hofstra.edu/vern_r_walker/WalkerEtAl_DecomposingEvidenceAssessment_ASAIL2017.pdf)
 
