@@ -1,5 +1,5 @@
 # Seminar "Künstliche Intelligenz im Recht 1"
-Begleitmaterialien für Seminar "Künstliche Intelligenz im Recht I", Universität Heidelberg, 18.-20.12.2017
+Begleitmaterialien für Seminar "Künstliche Intelligenz im Recht I", Universität Heidelberg, 18.-20.12.2017  
 Autor: [Matthias Grabmair](http://www.andrew.cmu.edu/user/mgrabmai), [CMU LTI](https://www.lti.cs.cmu.edu)
 
 ## Kurs-Folien
